@@ -1,7 +1,4 @@
-### what am i working on!
-
-<!--
-**Savindr037/SAVINDR037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is What I am Working on!👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... By social profile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

@@ -1,12 +1,11 @@
 ### Here is What I am Working on!👋
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Preparing for a job interview
-- 🌱 I’m currently learning ... Full Stack Web Development
-- 👯 I’m looking to collaborate on ... I want to cooperate in any startup company or multinational companies to earn money.
+- 🌱 I’m learning ... Full Stack Web Development
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... Web Development
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... By social profile
+- 📫 How to reach me: ... 7071406586 and via social profile
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
